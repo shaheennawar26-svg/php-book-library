@@ -1,4 +1,6 @@
 <?php
+//Name: Shaheen Anwar Abo Lehya
+//ID: 120202890
 
 // Start the session to store data while the site is running
 session_start();
